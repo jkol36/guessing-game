@@ -11,7 +11,7 @@ export default function App() {
 
   const configureNewGameHandler = () => {
     setGuessRounds(0);
-    userNumber(null);
+    setUserNumber(null);
 
   };
 
